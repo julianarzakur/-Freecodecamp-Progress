@@ -1,0 +1,55 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="You are a traveller with places to go. We will take care of the details. You embrace the journey."/>
+    <title>Travel Agency Page</title>
+  </head>
+  <body>
+    <h1>Travel destinations</h1>
+    <p>Meet a group of people who share your love of travel. Learn from locals. Forge friendships in the coolest places.
+    </p>
+<h2>Packages</h2>
+<p>Discover the romance of Europe and the serenity of the tropics in one unforgettable journey. From strolling through iconic landmarks and savoring world-class cuisine in historic cities to relaxing in luxurious overwater villas surrounded by crystal-clear waters, this experience blends cultural charm with tropical paradise.
+</p>
+<ul>
+  <li>
+  <a href="https://www.freecodecamp.org/learn"target="_blank">Group Travels</a>
+    1. Tropical Escape – Maldives
+7 days in a luxury overwater villa, crystal-clear waters, snorkeling, and private beach dinners.
+</li> 
+<li>
+  <a href="https://www.freecodecamp.org/learn"target="_blank">Private Tours</a>
+2. European Charm – Paris & Rome
+10 days exploring romantic streets, world-famous landmarks, gourmet cuisine, and cultural treasures.
+</li> 
+</ul> 
+<h2>Top Itineraries</h2>
+
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">FreeCodeCamp 
+  <img src="https://travejante.com/wp-content/uploads/2022/02/maldivas-travejante-1-1500x900.jpg" alt="maldivas" >
+   </a>
+   <figcaption>Maldivas</figcaption>
+   </figure>
+
+<figure>
+<a href="https://www.freecodecamp.org/learn" target="_blank">FreeCodeCamp
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/TourEiffelLC.JPG/500px-TourEiffelLC.JPG" alt ="Tour Eiffel">
+</a>
+<figcaption>Paris</figcaption>
+</figure>
+
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">FreeCodeCamp
+  <img src="https://res.cloudinary.com/hello-tickets/image/upload/c_lfill,f_auto,h_436,q_auto,w_880/c_lfill,f_auto,h_218,q_auto,w_440/v1640835927/o3pfl41q7m5bj8jardk0.jpg" alt="Roma">
+  </a>
+  <figcaption>Roma</figcaption>
+</figure>
+  </body>
+</html>
+
+** end of index.html **
+
