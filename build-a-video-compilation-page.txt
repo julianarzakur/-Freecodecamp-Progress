@@ -1,0 +1,49 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+    <h1>How to learn HTML</h1>
+    <p>HTML (Hypertext Markup Language) is the core language for building the web pages we access daily. Therefore, knowledge of it is essential for every web programmer. In this guide, you'll find all the content you need for a comprehensive HTML education.</p>
+    <section>
+        <h2>Structure of an HTML Page</h2>
+        <p>An HTML page follows a block-based structure. It all begins with the document type declaration, followed by the tag that wraps all the content. Within the tag, the tag gathers information about the page, such as the title and settings, while the tag contains what actually appears to the user, such as text, images, and links. This separation ensures that the browser understands how to correctly display each part of the website.</p>
+        <iframe 
+        src="https://www.youtube.com/embed/QLzIQZopPlY?si=E9ii61yR13WiOrFs"
+        title="basic HTML Page Structure How To Create Basic HTML Structure"
+        height="315"
+        width="560"></iframe>
+        </section>
+    <section>
+        <h2>Importance of HTML for the Web</h2>
+        <p>HTML is fundamental because it is the foundation of the entire internet. Every website we access is built using this language, even when using content management systems or pre-built platforms. Learning HTML is the first step for those who want to create custom pages and understand how websites work. Furthermore, knowledge of HTML facilitates the learning of other related technologies, such as CSS for styling and JavaScript for interactivity.</p>
+        <iframe
+        src="https://www.youtube.com/embed/oC-NfkrQ_LQ?si=-6v2fvrGzycq0Q-D"
+        title="THE IMPORTANCE OF HTML IN CREATING WEBSITES"
+        height="315"
+        width="560">
+        </iframe>
+        </section>
+    <section>
+        <h2>Evolution of HTML over time</h2>
+        <p>Since its creation in the 1990s, HTML has undergone several versions and improvements. The current version, called HTML5, introduced important new features, such as new semantic tags, support for audio and video without the need for plugins, and greater integration with modern web technologies. This evolution has made website development more accessible, powerful, and adapted to the needs of today's digital world, enabling richer and more interactive experiences for users.</p>
+        <iframe
+        src="https://www.youtube.com/embed/LhRYel_sjvE?si=aMuD9famcP-lbTzv"
+        title="HTML Historye e HTML EvolutionEvolution of HTML and Browser Wars Explained"
+        height="315"
+        width="560"></iframe>
+        </section>
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+
